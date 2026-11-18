@@ -1,0 +1,18 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+
+# Variáveis de ambiente
+.env
+
+# SQLite local (caso utilizado)
+*.db
+*.sqlite3
+
+# Dados brutos
+microdados_censo_escolar_*/
+*.csv
